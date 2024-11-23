@@ -15,3 +15,20 @@ a {
 color: Aquamarine;
   font-size: 16px;
 }
+
+h2 {
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+}
+
+tagline {
+font-family:Verdana;
+  font-size: 21px;
+  color: Gray;
+}
+
+footer {
+text-align: right
+  color: gray;
+}
