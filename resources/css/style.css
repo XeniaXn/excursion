@@ -27,10 +27,11 @@ h2 {
 tagline {
 font-family:Verdana;
   font-size: 21px;
-  color: Gray;
+  color: gray;
 }
 
 footer {
-text-align: right
-  color: gray;
+font-family: Verdana;
+  text-align: right;
+ color: gray;
 }
