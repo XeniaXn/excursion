@@ -1,37 +1,33 @@
-html{
-  background-color: black;
+
+body{
+  font-family: Verdana;
   text-align: center;
+  background-color: black;
+  color: white;
 }
 
+
 h1 {
-font-family: Verdana;
   font-weight: normal;
   font-size: 50px;
-  color: white;
-  text-align: center;
 }
 
 a {
-  font-family:Verdana;
 color: Aquamarine;
   font-size: 16px;
 }
 
 h2 {
-  font-family: Verdana;
   font-weight: 300;
   font-size: 42px;
-  color: white;
 }
 
 .tagline {
-font-family:Verdana;
   font-size: 21px;
-  color: gray;
+  color: Gray;
 }
 
 .footer {
-font-family: Verdana;
   text-align: right;
- color: gray;
+ color: Gray;
 }
