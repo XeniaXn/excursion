@@ -1,10 +1,17 @@
 html{
-  background-color: black
+  background-color: black;
+  text-align: center;
 }
+
 h1 {
 font-family: Verdana;
   font-weight: normal;
   font-size: 50px;
-  font-color: white;
+  color: white;
   text-align: center;
+}
+
+a {
+color: Aquamarine;
+  font-size: 16px;
 }
