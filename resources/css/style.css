@@ -24,13 +24,13 @@ h2 {
   color: white;
 }
 
-tagline {
+.tagline {
 font-family:Verdana;
   font-size: 21px;
   color: gray;
 }
 
-footer {
+.footer {
 font-family: Verdana;
   text-align: right;
  color: gray;
